@@ -1,0 +1,16 @@
+tensorflow
+keras
+numpy
+opencv-python
+pandas
+matplotlib
+flask
+streamlit
+groq
+scikit-learn
+sqlalchemy
+seaborn
+pillow
+requests
+reportlab
+python-dotenv
